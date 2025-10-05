@@ -44,7 +44,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:contact.topsforgetech@gmail.com">
+  <a href="mailto:contact.topstechforgelab@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/akristoffergalicha">
