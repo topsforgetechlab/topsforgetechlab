@@ -2,7 +2,7 @@
   <img src="https://github.com/topsforgetechlab/topsforgetechlab/blob/main/logo.png?raw=true" width="200" alt="Tops ForgeTech Lab Logo"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Kristoffer — Founder of Tops ForgeTech Lab</h1>
+<h1 align="center">👋 Hi, I'm Kristoffer of Tops ForgeTech Lab</h1>
 
 <p align="center">
   <em>Innovative Tools, Smart Solutions — Powered by Tops ForgeTech Lab</em>
