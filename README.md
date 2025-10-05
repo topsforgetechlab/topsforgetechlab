@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Kristoffer from Tops TechForge Lab
+<p align="center">
+  <img src="https://github.com/topsforgetechlab/topsforgetechlab/blob/main/logo.png?raw=true" width="200" alt="Tops ForgeTech Lab Logo"/>
+</p>
 
-I'm an **App Developer** passionate about creating **AI-powered utilities, mobile tools, and interactive experiences** that blend creativity and technology.
+<h1 align="center">👋 Hi, I'm Kristoffer — Founder of Tops ForgeTech Lab</h1>
+
+<p align="center">
+  <em>Innovative Tools, Smart Solutions — Powered by Tops ForgeTech Lab</em>
+</p>
 
 ---
 
@@ -13,31 +19,41 @@ I'm an **App Developer** passionate about creating **AI-powered utilities, mobil
 ---
 
 ### 🧰 Tech Stack
-**Languages:** JavaScript, TypeScript, Dart, Python  
-**Frameworks:** React Native, Flutter, Next.js, Node.js  
+**Languages:** C#, JavaScript, TypeScript, Dart, Python  
+**Frameworks:** .NET, React Native, Flutter, Next.js, Node.js  
 **AI Tools:** OpenAI API, TensorFlow.js, Hugging Face  
 **Databases:** Firebase, SQLite, Supabase  
-**Other:** Git, REST APIs, Figma, VS Code
+**Other:** Git, REST APIs, Figma, Visual Studio, VS Code
 
 ---
 
 ### 🌱 Currently
-- Expanding my portfolio with AI-powered and creative mobile applications  
-- Experimenting with new tools and ideas under **Tops ForgeTech Lab**
+- Developing **AI-powered desktop and mobile tools** under **Tops ForgeTech Lab**  
+- Working on creative projects like **DataPhoenix** and upcoming **mini-games**  
+- Experimenting with new tools and ideas that merge AI and creativity
 
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topsforgetechlab&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topsforgetechlab&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=topsforgetechlab&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topsforgetechlab&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:contact.topsforgetech@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akristoffergalicha)
+<p align="center">
+  <a href="mailto:contact.topsforgetech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/akristoffergalicha">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-💬 *"Building simple tools, powered by smart tech."*
+<p align="center">
+💬 <em>"Building simple tools, powered by smart tech."</em>
+</p>
