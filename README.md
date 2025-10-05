@@ -5,9 +5,9 @@ I'm an **App Developer** passionate about creating **AI-powered utilities, mobil
 ---
 
 ### 🧠 About
-- 💡 Building smart and practical apps focused on **productivity and creativity**
-- 🕹️ Exploring **game development** and interactive digital experiences
-- 🤖 Integrating **AI technologies** to enhance functionality and design
+- 💡 Building smart and practical apps focused on **productivity and creativity**  
+- 🕹️ Exploring **game development** and interactive digital experiences  
+- 🤖 Integrating **AI technologies** to enhance functionality and design  
 - 🚀 Always learning and experimenting with modern frameworks and tools
 
 ---
@@ -27,24 +27,17 @@ I'm an **App Developer** passionate about creating **AI-powered utilities, mobil
 
 ---
 
-### 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:contact.topsforgetech@gmail.com)
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topsforgetechlab&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topsforgetechlab&layout=compact&theme=radical)
 
 ---
 
-💬 *"Building simple tools, powered by smart tech."*## Hi there 👋
+### 🌐 Connect With Me
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:contact.topsforgetech@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akristoffergalicha)
 
-<!--
-**topsforgetechlab/topsforgetechlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 *"Building simple tools, powered by smart tech."*
